@@ -1,6 +1,12 @@
 - Hi, I’m @Fritzzin
-- I’m interested in learning JS Frameworks such as Vue, React, NextJS, etc...
-- I’m currently learning Java and Web Development (HTML, CSS, JS)
+- Interested in learning:
+  * Back and Front-end for Web Development 
+  * User Experience related topics
+- Currently learning:
+  * Java
+  * Web "Basics" (HTML, CSS, JS)
+  * VueJS
+  * NodeJS
 
 <!---
 Fritzzin/Fritzzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
