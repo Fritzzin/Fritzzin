@@ -5,8 +5,6 @@
 - Currently learning:
   * Java
   * Web "Basics" (HTML, CSS, JS)
-  * VueJS
-  * NodeJS
 
 <!---
 Fritzzin/Fritzzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
