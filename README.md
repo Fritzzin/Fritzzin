@@ -25,7 +25,7 @@
   - Played with tools such as:
     - Jenkins
     - Docker
-  - Many other sujects that I won't remember from the top of my head :suspect:
+  - Many other subjects that I won't remember from the top of my head :suspect:
 <!---
 Fritzzin/Fritzzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
