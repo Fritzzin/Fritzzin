@@ -9,7 +9,6 @@
     -  Frameworks such as Svelte, Vue, React, etc...
   - User Experience (UX) related topics
     - Accessibility
-    - Layout of pages
     - Look and Feel
   - Kotlin (due to previous Java experience)
 ## :computer: Previous Experiences:
