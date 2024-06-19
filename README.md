@@ -1,27 +1,28 @@
 # :wave: Hi, I’m Augusto (Fritzzin).
-- 25 Years Old
+- 26 Years Old
 - Brazil
-- Major in Software Engineering as of 2022
+- Software Engineering major as of 2022
 - Can speak both English and Brazilian Portuguese fluently.
+
 ## :pencil2: Interested in learning:
   - Web Development
-    - Includes more in depth JavaScript
-    -  Frameworks such as Svelte, Vue, React, etc...
+  - Mobile Development
   - User Experience (UX) related topics
-    - Accessibility
-    - Look and Feel
   - Kotlin (due to previous Java experience)
+  - Linux
+    
 ## :computer: Previous Experiences:
   ### :briefcase: Work
   - Web (HTML, CSS, JS)
   - Bootstrap
+  - Flutter
   
   ### :open_book: University
   - Java
   - Object Oriented Programming
   - Python using Pandas library for data analysis
   - Both SQL (PostgreSQL, MySQL, SQLite) and NoSQL (MongoDB) Databases
-  - Played with tools such as:
+  - Played around with tools such as:
     - Jenkins
     - Docker
   - Many other subjects that I won't remember from the top of my head :suspect:
