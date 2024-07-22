@@ -5,17 +5,18 @@
 - Can speak both English and Brazilian Portuguese fluently.
 
 ## :pencil2: Interested in learning:
+  - User Experience (UX) related topics
   - Web Development
   - Mobile Development
-  - User Experience (UX) related topics
-  - Kotlin (due to previous Java experience)
+  - Kotlin
   - Linux
     
 ## :computer: Previous Experiences:
   ### :briefcase: Work
   - Web (HTML, CSS, JS)
   - Bootstrap
-  - Flutter
+  - Mobile (Flutter)
+  - Working with RESTful APIs
   
   ### :open_book: University
   - Java
