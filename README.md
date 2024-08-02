@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Augusto (Fritzzin).
 - 26 Years Old
-- Brazil
+- Brazil 🇧🇷
 - Software Engineering major as of 2022
 - Can speak both English and Brazilian Portuguese fluently.
 
@@ -8,21 +8,26 @@
   - User Experience (UX) related topics
   - Web Development
   - Mobile Development
-  - Kotlin
   - Linux
     
 ## :computer: Previous Experiences:
   ### :briefcase: Work
   - Web (HTML, CSS, JS)
-  - Bootstrap
+  - Bootstrap and other similar libraries
   - Mobile (Flutter)
+  - Little bit of PHP
   - Working with RESTful APIs
   
   ### :open_book: University
-  - Java
+  - Mostly Java over the course of the major
+    - Mobile Development with Java
+    - Desktop Development with Java
+    - Web Development with Java (I think you're seeing a pattern here?)
+    - Hibernate 
   - Object Oriented Programming
   - Python using Pandas library for data analysis
-  - Both SQL (PostgreSQL, MySQL, SQLite) and NoSQL (MongoDB) Databases
+  - Some Arduino and IOT programming
+  - Both SQL (PostgreSQL, SQLite) and NoSQL (MongoDB) Databases
   - Played around with tools such as:
     - Jenkins
     - Docker
