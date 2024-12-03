@@ -5,18 +5,19 @@
 - Can speak both English and Brazilian Portuguese fluently.
 
 ## :pencil2: Interested in learning:
-  - User Experience (UX) related topics
+  - User Experience (UX), especially web related
   - Web Development
   - Mobile Development
-  - Linux
+  - How to setup things "Properly" (e.g. Servers)
     
 ## :computer: Previous Experiences:
   ### :briefcase: Work
   - Web (HTML, CSS, JS)
-  - Bootstrap and other similar libraries
-  - Mobile (Flutter)
-  - Little bit of PHP
-  - Working with RESTful APIs
+  - Bootstrap
+  - Mobile development using Flutter
+  - PHP
+  - AngularJS (The older non supported version 😢)
+  - Working with RESTful APIs (Openweather, company's API, etc...)
   
   ### :open_book: University
   - Mostly Java over the course of the major
@@ -25,13 +26,19 @@
     - Web Development with Java (I think you're seeing a pattern here?)
     - Hibernate 
   - Object Oriented Programming
+  - Algorithms, Big O notations, Recursion and all that...
   - Python using Pandas library for data analysis
   - Some Arduino and IOT programming
   - Both SQL (PostgreSQL, SQLite) and NoSQL (MongoDB) Databases
   - Played around with tools such as:
     - Jenkins
     - Docker
-  - Many other subjects that I won't remember from the top of my head :suspect:
+  - Many other topics that I won't remember from the top of my head :suspect:
+
+  ### ⌨️ Hobbies / On my own time
+  - A bit of Linux, overall usage and configuration (Yes, I have installed Arch at least once)
+  - Setting up some basic shell scripts for task automations on my Linux machines
+  - Still trying to learn more things as I go
 <!---
 Fritzzin/Fritzzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
