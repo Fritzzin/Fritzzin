@@ -5,10 +5,9 @@
 - Can speak both English and Brazilian Portuguese fluently.
 
 ## :pencil2: Interested in learning:
-  - User Experience (UX), especially web related
+  - User Experience (UX)
   - Web Development
-  - Mobile Development
-  - How to setup things "Properly" (e.g. Servers)
+  - More Linux!
     
 ## :computer: Previous Experiences:
   ### :briefcase: Work
