@@ -1,5 +1,5 @@
 # :wave: Hi, I’m Augusto (Fritzzin).
-- 26 Years Old
+- 27 Years Old
 - Brazil 🇧🇷
 - Software Engineering major as of 2022
 - Can speak both English and Brazilian Portuguese fluently.
