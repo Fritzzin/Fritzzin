@@ -2,7 +2,7 @@
 - 27 Years Old
 - Brazil 🇧🇷
 - Software Engineering major as of 2022
-- Can speak both English and Brazilian Portuguese fluently.
+- English and Brazilian Portuguese fluently.
 
 ## :pencil2: Interested in learning:
   - User Experience (UX)
@@ -13,17 +13,17 @@
   ### :briefcase: Work
   - Web (HTML, CSS, JS)
   - Bootstrap
-  - Mobile development using Flutter
+  - Flutter
   - PHP
   - AngularJS (The older non supported version 😢)
-  - Working with RESTful APIs (Openweather, company's API, etc...)
+  - Working with RESTful APIs
   
   ### :open_book: University
-  - Mostly Java over the course of the major
-    - Mobile Development with Java
-    - Desktop Development with Java
-    - Web Development with Java (I think you're seeing a pattern here?)
-    - Hibernate 
+  - Java over the course of the major
+    - Mobile
+    - Desktop
+    - Web Development
+    - Hibernate
   - Object Oriented Programming
   - Algorithms, Big O notations, Recursion and all that...
   - Python using Pandas library for data analysis
