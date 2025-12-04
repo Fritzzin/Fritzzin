@@ -1,21 +1,16 @@
 # :wave: Hi, I’m Augusto (Fritzzin).
-- 27 Years Old
-- Brazil 🇧🇷
-- Software Engineering major as of 2022
-- Speaks both English and Brazilian Portuguese fluently.
+I'm a 27 years old dude from Brazil. I've got my major in Software Engineering in 2022, but haven't gotten into the market until later. 
+Currently working as a Jr. Dev, interested in becoming a front-end developer down the line.
 
-## :pencil2: Interested in learning:
-  - User Experience (UX)
-  - Web Development
-  - More Linux!
-    
-## :computer: Previous Experiences:
-  ### :briefcase: Work
+## :computer: Experiences:
+  ### :briefcase: Previous and Current Work
   - Web (HTML, CSS, JS)
   - Bootstrap
   - Flutter
   - PHP
   - AngularJS (The older non supported version 😢)
+  - React/NextJS
+  - Typescript
   - Working with RESTful APIs
   
   ### :open_book: University
@@ -30,7 +25,7 @@
     - Docker
   - Many other topics that I won't remember from the top of my head :suspect:
 
-  ### ⌨️ Hobbies / On my own time
+## ⌨️ Hobbies
   - Gunpla building
   - Keyboards
   - Gaming, especially FFXIV
